@@ -1,0 +1,15 @@
+buatlah sebuah sisitem yang dimaan ada data stok barang dalam sebuah rak dan penyusunannya memiliki pola penyimpanan dan kelompok barang di pisahkan dengan input:
+1. Jumlah total data (N).
+2. Deret stok (s1, s2, ..., sN).
+3. Kode kategori barang.
+
+dan buatlah program yang bisa menetukan total stok hnaya unutk kategori barang yang di minta 
+
+buatlah program ini andainya nada seorang prgramer yang dapat membangun sistem yang baik 
+dan gunkanalah library yang sesuai denganprogram ini
+
+
+dengan struktur file:
+ada driver 2. jva di folder driver
+dan Model2.java di folder src
+keduanya folder di gabung di folder src

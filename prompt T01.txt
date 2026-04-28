@@ -1,0 +1,27 @@
+saya di beri tugas dengaan membangun sebuah sistem yang jasa pengiriman baru yaitu Del-Express dengan Sistemnya transparan dan perhitungannya otomatis terlihat di gambar 1 dan ucok dan butet ingin mengirimkan beberapa barang ke kampyng halaman mereka danmereka ingin menggunkan jada Del-Express dan karena ada promo dengan   ketentuan ongkos kirim 10% jika totalberat pengirim laboh dari 10kg dan pengiriman ke kota luar pulau mendapat asuransi gratis nah unutk membuat .
+dan ada situasi dimana ada perbedaaan ukuran dus butet dan ucok pada gambar 2 hal inii di sebabkan karena sistem pengiriman bekerj aotomatis dan hanya perlu memasukkan kode tujuan terlihat di gambar 3
+
+contoh inputan 
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+output : 
+Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh,
+
+denag struktur 
+ada driver 1. jva di folder driver
+dan Model1.java di folder src 
+keduanya folder di gabung di folder src
+
+buatlah sebuah sistemnya dengan andainya engkau seorang programmer yang dapat membangun sebuah sistem yang unggul

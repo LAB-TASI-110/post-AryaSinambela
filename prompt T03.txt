@@ -1,0 +1,48 @@
+saya siberi tugas unutk membangun sebuah sistem yang mendukung kfetarian IT del
+yang diamana pada kafe taria ini memiliki beberapa makanan dan minuman seperti:
+bakwan = 10.000
+tempe goreng =10.000
+tahu goreng= 10.000
+piscok = 10.000
+gabin = 10.000
+burger = 10.000
+kopi capucino = 10.000
+soda bahagia = 10.000
+mie goreng = 15.000
+
+disini mendukung pengantaran makanan dengan ongkir 2.000 sekali antar 
+dan jika dia memesan lebih dari 50.000 dia free ongkir dan 
+jika dia di jemput  atau take away akan mendapat potongan sedbanyak 10% diskon ini sama juga khusus memesan makanan paketan ada paketan makanan contoh:
+promo hemat, promo ulang tahun, dll
+dan disini input makanan dengaan memasukkan kode makanan yang di tampilakn oleh sistem
+
+disini alurnya sistem akan menampilakn daftar menu dan makanan
+ nah disini setelah pelanggan selesi menginput makanan dan minuman
+sistem akan mengeluatkan struk pembayatran dan nomor meja ke berapa 
+dan unutkyang memesan promo buat judul promo dan kode makanannya 
+
+cth OUTPUT
+
+struk
+NAMA PELANGGAN
+NO MEJA 
+----------------------------
+nama makanan
+BKW - 001            10.000
+TMP - 002             10.000
+---------------------------- +
+TOTAL                     20.000
+
+PEMABAYARAN TUNAI /TRANSFER 
+
+Buatlah sistemdenga library yaang sesuai dengan sistem 
+buatlah sistem seandainay kamu programer profesioanal yang dapat embangun sistem yang baik 
+
+dengan struktur file:
+ada driver 3. jva di folder driver
+dan Model 3.java di folder src
+keduanya folder di gabung di folder src
+
+NB: kode makanan bisa diubah jika da yang lebih gmpanag kodenya tau masoh masuk akal
+NB: jenis makanan dan minuman dapat ditambahi ya agar lebih bervariatif jenisnya
+kemudian pembeli akan memilih makanan dna minumnnya dekan kode makanan misal ( Bakwan - 001, tempe - 002, dan lain lain)
